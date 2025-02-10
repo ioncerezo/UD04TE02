@@ -55,8 +55,7 @@
                             <h2><xsl:value-of select="nom_plato"/></h2>
                             <h3><xsl:value-of select="precio"/>€</h3>
                         </article>
-                    </xsl:for-each>
-                    
+                    </xsl:for-each>   
                 </main>
                 
                 <footer>
